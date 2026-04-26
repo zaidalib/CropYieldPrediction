@@ -98,8 +98,8 @@ crop-yield-prediction/
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/yourusername/crop-yield-prediction.git
-cd crop-yield-prediction
+git clone https://github.com/zaidalib/CropYieldPrediction.git
+cd CropYieldPrediction
 ```
 
 **2. Install dependencies**
