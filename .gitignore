@@ -1,0 +1,23 @@
+# ── Submission files (do not push) ────────────────────────────
+archive.zip
+Crop_Yield_Prediction_Report.pdf
+Crop_Yield_Prediction_Report.docx
+
+# ── Python ─────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+
+# ── Jupyter ────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ── IDE ────────────────────────────────────────────────────────
+.vscode/
+
+
+# ── Streamlit cache ────────────────────────────────────────────
+.streamlit/
