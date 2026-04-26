@@ -1,3 +1,8 @@
+# 📝 **Note**
+This project was created for academic submission for the subject 'Intro To ML'
+
+---
+
 # 🌾 Crop Yield Prediction
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -132,14 +137,6 @@ Random Forest Regressor (100 decision trees)
         ↓
 Predicted Yield (hg/hectare)
 ```
-
----
-
-## 👤 Author
-
-**Burmawala Zaidali Aliabbas**
-B.Tech Computer Science Engineering
-JG University | Enrollment: 2501442018 | Roll: 242208
 
 ---
 
