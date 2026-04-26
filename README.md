@@ -31,9 +31,8 @@ Agriculture drives economies. This project uses historical crop and weather data
 
 ## 🚀 Live Demo
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-link.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cropyieldprediction-zaidalib.streamlit.app/))
 
-> Replace the link above with your actual Streamlit deployment URL after deploying.
 
 ---
 
